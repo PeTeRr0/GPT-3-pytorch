@@ -10,7 +10,7 @@ The dataset provides parallel sentence pairs and is commonly used for training a
 
 To process the text data, the GPT-3 Byte-Pair Encoding (BPE) tokenizer ("cl100k_base") is employed. This tokenizer converts raw text into token sequences compatible with GPT-3 style language models.
 
-## 🔹 Learning Overview in GPT-3 Pre-training
+## Learning Overview in GPT-3 Pre-training
 ![figure1](assets/figure1.png)
 ### **Outer Loop**
 - Represents the overall pre-training process.
