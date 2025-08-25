@@ -62,7 +62,7 @@ To process the text data, the GPT-3 Byte-Pair Encoding (BPE) tokenizer ("cl100k_
    - Larger models benefit significantly more from few-shot prompting.
    - Smaller models (1.3B) barely improve, suggesting that in-context learning ability scales with parameter count.
 =============================================
-## 🔹 Aggregate Performance Across Benchmarks
+## Aggregate Performance Across Benchmarks
 ![figure3](assets/figure3.png)
 ### **Axes**
 - **X-axis**: Model size in billions of parameters (from 0.1B to 175B).
